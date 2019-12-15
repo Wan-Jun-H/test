@@ -10,8 +10,12 @@ public class testMyGit {
 
 		System.out.println("主线第二版本");
 
+
 		System.out.println("分支1版本");
 		System.out.println("分支2版本");
+
+
+		System.out.println("测试第二版本");
 
 	}
 	
