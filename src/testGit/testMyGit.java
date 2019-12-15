@@ -8,6 +8,7 @@ public class testMyGit {
 	public void test1() {
 		System.out.println("主线版本");
 		System.out.println("主线第二版本");
+		System.out.println("测试第二版本");
 	}
 	
 	public static void main(String[] args) {
